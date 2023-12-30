@@ -1,0 +1,7 @@
+_state/
+BepInEx/config/
+BepInEx/plugins/**/README.md
+BepInEx/plugins/**/CHANGELOG.md
+BepInEx/plugins/**/LICENSE
+BepInEx/plugins/**/icon.png
+mods.yml
