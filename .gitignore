@@ -1,7 +1,19 @@
+# Game
+Lethal Company_Data/
+MonoBleedingEdge/
+Lethal Company.exe
+nvngx_dlss.dll
+NVUnityPlugin.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+
+# Mods
 _state/
-BepInEx/config/
+BepInEx/cache/
+BepInEx/patchers/
 BepInEx/plugins/**/README.md
 BepInEx/plugins/**/CHANGELOG.md
 BepInEx/plugins/**/LICENSE
 BepInEx/plugins/**/icon.png
 mods.yml
+BepInEx/LogOutput.log

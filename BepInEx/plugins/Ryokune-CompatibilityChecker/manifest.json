@@ -1,0 +1,9 @@
+{
+    "name": "CompatibilityChecker",
+    "version_number": "1.1.6",
+    "website_url": "https://github.com/VisualError/CompatibilityChecker/",
+    "description": "Enhances your multiplayer experience by notifying you of the required mods when failing to join modded servers.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
