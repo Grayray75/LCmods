@@ -1,0 +1,9 @@
+{
+  "name": "Corporate_Restructure",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "A QoL Overhaul for Corporate Executives",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
