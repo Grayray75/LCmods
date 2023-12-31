@@ -16,16 +16,14 @@
 | HealthMetrics            | v1.0.2    |
 | Helmet_Cameras           | v2.1.5    |
 | HideChat                 | v1.0.0    |
-| JetpackFallFix           | v1.0.1    |
 | JetpackWarning           | v2.2.0    |
-| LateCompany              | v1.0.8    |
+| LateCompany              | v1.0.9    |
 | LC_API                   | v3.2.2    |
 | LethalCompany_InputUtils | v0.4.4    |
 | LethalFashion            | v1.0.4    |
 | LetMeLookDown            | v1.0.1    |
 | More_Emotes              | v1.2.2    |
 | MoreCompany              | v1.7.2    |
-| MoreItems                | v1.0.1    |
 | ScalingStartCredits      | v1.0.1    |
 | SlimeTamingFix           | v1.0.2    |
 | SuitSaver                | v1.1.2    |
