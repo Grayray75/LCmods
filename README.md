@@ -8,9 +8,9 @@
 | BepInEx                  | v5.4.2100 |
 | BetterItemScan           | v2.1.7    |
 | BetterStamina            | v1.3.2    |
-| BetterStamina            | v1.1.6    |
+| CompatibilityChecker     | v1.1.6    |
 | Coroner                  | v1.5.3    |
-| Corporate_Restructure    | v1.0.4    |
+| Corporate_Restructure    | v1.0.5    |
 | DissonanceLagFix         | v1.0.0    |
 | FlashlightToggle         | v1.5.0    |
 | HealthMetrics            | v1.0.2    |
