@@ -30,6 +30,7 @@
 | Terminal_Clock           | v1.0.5    |
 | Terminal_History         | v1.0.4    |
 | TerminalApi              | v1.4.0    |
+| UnlimitedTZP             | v0.9.0    |
 | WalkieUse                | v1.4.0    |
 | WeatherMultipliers       | v1.1.0    |
 | YippeeMod                | v1.2.2    |
