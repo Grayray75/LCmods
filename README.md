@@ -18,7 +18,7 @@
 | HideChat                 | v1.0.0    |
 | JetpackWarning           | v2.2.0    |
 | LateCompany              | v1.0.9    |
-| LC_API                   | v3.2.2    |
+| LC_API                   | v3.2.3    |
 | LethalCompany_InputUtils | v0.4.4    |
 | LethalFashion            | v1.0.4    |
 | LetMeLookDown            | v1.0.1    |
@@ -29,7 +29,7 @@
 | SuitSaver                | v1.1.2    |
 | Terminal_Clock           | v1.0.5    |
 | Terminal_History         | v1.0.4    |
-| TerminalApi              | v1.4.0    |
+| TerminalApi              | v1.5.0    |
 | UnlimitedTZP             | v0.9.0    |
 | WalkieUse                | v1.4.0    |
 | WeatherMultipliers       | v1.1.0    |
