@@ -21,12 +21,12 @@
 | LC_API                   | v3.2.3    |
 | LethalCompany_InputUtils | v0.4.4    |
 | LethalFashion            | v1.0.4    |
+| LethalRegeneration       | v1.1.1    |
 | LetMeLookDown            | v1.0.1    |
 | More_Emotes              | v1.2.2    |
 | MoreCompany              | v1.7.2    |
 | ScalingStartCredits      | v1.0.1    |
 | SlimeTamingFix           | v1.0.2    |
-| SuitSaver                | v1.1.2    |
 | Terminal_Clock           | v1.0.5    |
 | Terminal_History         | v1.0.4    |
 | TerminalApi              | v1.5.0    |
