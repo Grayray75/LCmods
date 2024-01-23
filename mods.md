@@ -6,6 +6,7 @@
 | ------------------------ | --------- |
 | AdditionalSuits          | v2.0.0    |
 | BepInEx                  | v5.4.2100 |
+| Backrooms                | v0.1.3    |
 | BetterEmotes             | v1.3.4    |
 | BetterItemScan           | v3.0.1    |
 | BetterStamina            | v1.3.2    |
@@ -16,6 +17,7 @@
 | HealthMetrics            | v1.0.2    |
 | Helmet_Cameras           | v2.1.5    |
 | HideChat                 | v1.0.0    |
+| HookGenPatcher           | v0.0.5    |
 | JetpackWarning           | v2.2.0    |
 | LateCompany              | v1.0.10   |
 | LC_API                   | v3.4.5    |
@@ -24,6 +26,8 @@
 | LethalRegeneration       | v1.2.0    |
 | LetMeLookDown            | v1.0.1    |
 | MoreCompany              | v1.7.6    |
+| SCPFoundationDungeon     | v2.1.0    |
+| SecretLabs               | v3.3.4    |
 | SlimeTamingFix           | v1.0.2    |
 | Terminal_Clock           | v1.0.5    |
 | Terminal_History         | v1.0.4    |
