@@ -6,6 +6,7 @@
 | -------------------------- | --------- |
 | AdditionalContentFramework | v1.0.3    |
 | AdditionalSuits            | v2.0.0    |
+| Atlas_Abyss                | v1.1.5    |
 | Backrooms                  | v0.1.3    |
 | BepInEx                    | v5.4.2100 |
 | BetterEmotes               | v1.3.4    |
