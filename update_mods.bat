@@ -1,6 +1,6 @@
-::git reset --hard
-::git fetch
-::git pull
+git reset --hard
+git fetch
+git pull
 
 @echo off
 echo Downloading additional moons...
