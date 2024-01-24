@@ -8,9 +8,9 @@ UnityCrashHandler64.exe
 UnityPlayer.dll
 
 # Mods
+_download/
 _state/
 BepInEx/cache/
-BepInEx/patchers/
 BepInEx/plugins/**/README.md
 BepInEx/plugins/**/CHANGELOG.md
 BepInEx/plugins/**/LICENSE
