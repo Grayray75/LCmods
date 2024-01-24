@@ -27,7 +27,9 @@
 | LethalLevelLoader          | v1.0.7    |
 | LethalLib                  | v0.13.2   |
 | LethalRegeneration         | v1.2.0    |
+| LethalThings               | v0.9.4    |
 | LetMeLookDown              | v1.0.1    |
+| MirrorDecor                | v1.3.1    |
 | MoreCompany                | v1.7.6    |
 | SCPFoundationDungeon       | v2.1.0    |
 | SecretLabs                 | v3.3.4    |
