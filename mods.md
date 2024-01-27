@@ -1,7 +1,3 @@
-# LCmods
-
-## List of Mods
-
 | Name                       | Version   |
 | -------------------------- | --------- |
 | AdditionalContentFramework | v1.0.3    |
@@ -9,20 +5,24 @@
 | Atlas_Abyss                | v1.1.5    |
 | Backrooms                  | v0.1.3    |
 | BepInEx                    | v5.4.2100 |
-| BetterEmotes               | v1.3.4    |
+| BetterEmotes               | v1.4.0    |
 | BetterItemScan             | v3.0.1    |
 | BetterStamina              | v1.3.2    |
+| BetterTeleporter           | v1.2.2    |
 | Coroner                    | v1.5.3    |
 | Corporate_Restructure      | v1.0.6    |
+| CustomSounds               | v2.3.2    |
 | DissonanceLagFix           | v1.0.0    |
 | FlashlightToggle           | v1.5.0    |
 | HealthMetrics              | v1.0.2    |
 | Helmet_Cameras             | v2.1.5    |
 | HideChat                   | v1.0.0    |
 | HookGenPatcher             | v0.0.5    |
+| I_need_more_Bullets        | v1.0.0    |
 | LateCompany                | v1.0.10   |
 | LC_API                     | v3.4.5    |
-| LethalCompany_InputUtils   | v0.6.0    |
+| LCSoundTool                | v1.5.0    |
+| LethalCompany_InputUtils   | v0.6.1    |
 | LethalFashion              | v1.0.6    |
 | LethalLevelLoader          | v1.0.7    |
 | LethalLib                  | v0.13.2   |
@@ -31,7 +31,8 @@
 | LetMeLookDown              | v1.0.1    |
 | MirrorDecor                | v1.3.1    |
 | MoreCompany                | v1.7.6    |
-| SCPFoundationDungeon       | v2.1.0    |
+| Runtime_Netcode_Patcher    | v0.2.5    |
+| SCPFoundationDungeon       | v2.2.0    |
 | SecretLabs                 | v3.3.4    |
 | SlimeTamingFix             | v1.0.2    |
 | Terminal_Clock             | v1.0.5    |
