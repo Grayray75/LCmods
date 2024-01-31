@@ -1,6 +1,6 @@
 {
     "name": "SCPFoundationDungeon",
-    "version_number": "2.3.0",
+    "version_number": "2.3.1",
     "description": "Adds the SCP foundation as a potential dungeon to explore.",
     "website_url": "https://github.com/Badhamknibbs/SCPCB_DunGen_LC/",
     "dependencies": [

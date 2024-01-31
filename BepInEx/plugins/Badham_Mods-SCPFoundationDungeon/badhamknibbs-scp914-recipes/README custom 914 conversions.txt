@@ -18,5 +18,5 @@ Names are automatically converted to lowercase when read, matching is based on t
 4. Place your new file in the same folder as default.json (the folder this readme is found in)
 
 *For mod developers*:
-Follow basically the same steps as above for your custom items, but you'll need to make a folder called "badhamknibbs-scp914-recipes" in the same folder as your manifest/etc files for upload, and put your json in that folder.
+Follow basically the same steps as above for your custom items, but you'll need to make a folder called "badhamknibbs-scp914-recipes" in the plugins folder of your mod when uploading (Thunderstore/mod managers will put it in its own folder, manual installers will need to move it to a subfolder themselves)
 SCPCBDunGen will search all folders in the plugins directory, searching for a sub-folder named "badhamknibbs-scp914-recipes" and will attempt to load all .json files in that directory. It will NOT detect a folder called "badhamknibbs-scp914-recipes" in the plugin folder.

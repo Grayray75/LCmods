@@ -33,7 +33,7 @@
 | MirrorDecor                | v1.3.1    |
 | MoreCompany                | v1.7.6    |
 | Runtime_Netcode_Patcher    | v0.2.5    |
-| SCPFoundationDungeon       | v2.3.0    |
+| SCPFoundationDungeon       | v2.3.1    |
 | SecretLabs                 | v3.3.4    |
 | SlimeTamingFix             | v1.0.2    |
 | Terminal_Clock             | v1.0.5    |
