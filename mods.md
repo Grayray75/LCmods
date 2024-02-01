@@ -22,7 +22,7 @@
 | I_need_more_Bullets        | v1.0.0    |
 | LateCompany                | v1.0.10   |
 | LC_API                     | v3.4.5    |
-| LCSoundTool                | v1.5.0    |
+| LCSoundTool                | v1.5.1    |
 | LethalCompany_InputUtils   | v0.6.1    |
 | LethalFashion              | v1.0.6    |
 | LethalLevelLoader          | v1.0.7    |
@@ -39,6 +39,7 @@
 | Terminal_Clock             | v1.0.5    |
 | Terminal_History           | v1.0.4    |
 | TerminalApi                | v1.5.1    |
+| UnlimitedPaint             | v0.9.0    |
 | UnlimitedTZP               | v0.9.0    |
 | WalkieUse                  | v1.5.0    |
 | WeatherMultipliers         | v1.1.0    |
