@@ -1,0 +1,9 @@
+{
+    "name": "SevenNationLoudHorn",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "You know what it does.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

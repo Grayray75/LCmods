@@ -1,11 +1,11 @@
 {
     "name": "SecretLabs",
-    "version_number": "3.3.5",
+    "version_number": "3.3.7",
     "website_url": "https://discord.com/invite/redlinescp",
     "description": "[3.3 Release] A custom moon based on the game SCP:Secret Lab and located on the facility Site-02. An abandoned lab once known as Site-02. Proceed with caution, entities once contained here now roam its halls.",
     "dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
      "Evaisa-LethalLib-0.11.1",
-		"IAmBatby-LethalLevelLoader-1.0.7"
+		"IAmBatby-LethalLevelLoader-1.1.6"
     ]
 }
