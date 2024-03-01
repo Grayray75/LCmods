@@ -18,3 +18,4 @@ BepInEx/plugins/**/icon.png
 BepInEx/plugins/**/*.lethalbundle
 mods.yml
 BepInEx/LogOutput.log
+*.mcskin

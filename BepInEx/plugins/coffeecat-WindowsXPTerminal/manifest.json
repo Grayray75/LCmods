@@ -1,0 +1,10 @@
+{
+    "name": "WindowsXPTerminal",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "Changes some terminal sounds to those from Windows XP",
+    "dependencies": [
+        "no00ob-LCSoundTool-1.4.0",
+		"Clementinise-CustomSounds-2.2.0"
+    ]
+}

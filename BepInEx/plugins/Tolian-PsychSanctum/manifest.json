@@ -1,0 +1,10 @@
+{
+    "name": "PsychSanctum",
+    "version_number": "0.1.3",
+    "website_url": "https://github.com/Toliann",
+    "description": "(LLL) adds new moons a game. by tolian!",
+    "dependencies": [
+	"IAmBatby-LethalLevelLoader-1.1.6",
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}

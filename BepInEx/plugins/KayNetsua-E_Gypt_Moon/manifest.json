@@ -1,0 +1,11 @@
+{
+    "name": "E_Gypt_Moon",
+    "version_number": "2.0.15",
+    "website_url": "https://twitter.com/KayNetsua",
+    "description": "Adds the intermediate-level moon 10-EGypt to the game. If you are using LethalExpansion, please install LethalExpansionCore!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-LethalLib-0.11.2",
+		"IAmBatby-LethalLevelLoader-1.1.6"
+    ]
+}
