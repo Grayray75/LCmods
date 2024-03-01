@@ -1,0 +1,7 @@
+{
+    "name": "CSync",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/Owen3H/CSync",
+    "description": "Configuration file syncing library for BepInEx.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

@@ -1,0 +1,283 @@
+{
+    "comment": "This is the Script. Hello World",
+    "volumeGroups": [
+        {
+            "tag": "InsideAlarms",
+            "volumeLerpSpeed": 2,
+            "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Spectator volume",
+                    "volume": 0.3,
+                    "condition": {
+                        "conditionType": "Not",
+                        "condition": {
+                            "conditionType": "PlayerAlive"
+                        }
+                    }
+                },
+                {
+                    "comment": "Inside facility volume",
+                    "volume": 1,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Facility"
+                    }
+                },
+                {
+                    "comment": "Inside ship volume",
+                    "volume": 0,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Ship"
+                    }
+                },
+                {
+                    "comment": "Default volume",
+                    "volume": 0
+                }
+            ],
+            "volumeModifiers": [
+                {
+                    "comment": "Crouching volume scale",
+                    "volumeScale": 1,
+                    "condition": {
+                        "conditionType": "PlayerCrouching"
+                    }
+                }
+            ]
+        },
+        {
+            "tag": "OutsideAlarms",
+            "volumeLerpSpeed": 2,
+            "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Spectator volume",
+                    "volume": 0.3,
+                    "condition": {
+                        "conditionType": "Not",
+                        "condition": {
+                            "conditionType": "PlayerAlive"
+                        }
+                    }
+                },
+                {
+                    "comment": "Inside facility volume",
+                    "volume": 0,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Facility"
+                    }
+                },
+                {
+                    "comment": "Inside ship volume",
+                    "volume": 0,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Ship"
+                    }
+                },
+                {
+                    "comment": "Default volume",
+                    "volume": 1
+                }
+            ],
+            "volumeModifiers": [
+                {
+                    "comment": "Crouching volume scale",
+                    "volumeScale": 1,
+                    "condition": {
+                        "conditionType": "PlayerCrouching"
+                    }
+                }
+            ]
+        },
+        {
+            "tag": "ApparatusMusic",
+            "volumeLerpSpeed": 2,
+            "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Inside facility volume",
+                    "volume": 1,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Facility"
+                    }
+                },
+                {
+                    "comment": "Inside ship volume",
+                    "volume": 0.6,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Ship"
+                    }
+                },
+                {
+                    "comment": "Spectator volume",
+                    "volume": 0.3,
+                    "condition": {
+                        "conditionType": "Not",
+                        "condition": {
+                            "conditionType": "PlayerAlive"
+                        }
+                    }
+                },
+                {
+                    "comment": "Default volume",
+                    "volume": 0.9
+                }
+            ],
+            "volumeModifiers": [
+                {
+                    "comment": "Crouching volume scale",
+                    "volumeScale": 1,
+                    "condition": {
+                        "conditionType": "PlayerCrouching"
+                    }
+                }
+            ]
+        },
+        {
+            "tag": "ShipAlarm",
+            "volumeLerpSpeed": 2,
+            "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Inside facility volume",
+                    "volume": 0,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Facility"
+                    }
+                },
+                {
+                    "comment": "Inside ship volume",
+                    "volume": 1,
+                    "condition": {
+                        "conditionType": "PlayerLocation",
+                        "location": "Ship"
+                    }
+                },
+                {
+                    "comment": "Spectator volume",
+                    "volume": 0.3,
+                    "condition": {
+                        "conditionType": "Not",
+                        "condition": {
+                            "conditionType": "PlayerAlive"
+                        }
+                    }
+                },
+                {
+                    "comment": "Default volume",
+                    "volume": 0
+                }
+            ],
+            "volumeModifiers": [
+                {
+                    "comment": "Crouching volume scale",
+                    "volumeScale": 1,
+                    "condition": {
+                        "conditionType": "PlayerCrouching"
+                    }
+                }
+            ]
+        }
+    ],
+    "scriptEvents": [
+        {
+            "comment": "Calls the cutoff timer at the start to hopefully fix the music playing after death/shipleaving",
+            "scriptEventType": "StopMusic",
+            "gameEventType": "ShipLanded",
+            "conditions": [
+                {
+                    "conditionType": "Timer",
+                    "timerName": "stop",
+                    "timeGoal": 5
+                }
+            ]
+        },
+        {
+            "comment": "Stops the escape music when the ship takes off",
+            "scriptEventType": "StopMusic",
+            "gameEventType": "ShipTakeOff",
+            "conditions": [
+                {
+                    "conditionType": "Timer",
+                    "timerName": "stop",
+                    "timeGoal": 5
+                }
+            ],
+            "targetTags": [
+//                "ApparatusMusic",
+                "ShipAlarm",
+                "InsideAlarms",
+                "OutsideAlarms"
+            ]
+        },
+        {
+            "comment": "Stops the music if you die",
+            "scriptEventType": "StopMusic",
+            "gameEventType": "PlayerDied",
+            "conditions":[
+                {
+                    "conditionType": "Timer",
+                    "timerName": "stop",
+                    "timeGoal": 5
+                }
+            ],
+            "targetTags": [
+//                "ApparatusMusic",
+                "ShipAlarm",
+                "InsideAlarms",
+                "OutsideAlarms"
+            ]
+        },
+        {
+            "comment": "Plays something in the ship when Apparatus is taken",
+            "scriptEventType": "PlayMusic",
+            "gameEventType": "ApparatusTaken",
+            "overlapHandling": "Overlap",
+            "tag": "ShipAlarm",
+            "conditions": [],
+            "musicNames": [
+                "SHIPMELTDOWN.wav"
+            ]
+        },
+/*        {
+            "comment": "Plays music when you take the Apparatus",
+			"scriptEventType": "PlayMusic",
+            "gameEventType": "ApparatusTaken",
+			"overlapHandling": "OverrideAll",
+			"tag": "ApparatusMusic",
+            "conditions": [],
+            "musicNames": [
+                ""
+            ]
+        },*/
+        {
+            "comment": "Plays alarms inside when Apparatus is taken",
+            "scriptEventType": "PlayMusic",
+            "gameEventType": "ApparatusTaken",
+            "overlapHandling": "Overlap",
+            "tag": "InsideAlarms",
+            "conditions": [],
+            "musicNames": [
+                "MELTDOWN.wav"
+            ]
+        }, 
+        {
+            "comment": "Plays alarms outside when Apparatus is taken",
+            "scriptEventType": "PlayMusic",
+            "gameEventType": "ApparatusTaken",
+            "overlapHandling": "Overlap",
+            "tag": "OutsideAlarms",
+            "conditions": [],
+            "musicNames": [
+                "OUTSIDEMELTDOWN.wav"
+            ]
+        } 
+    ]
+}

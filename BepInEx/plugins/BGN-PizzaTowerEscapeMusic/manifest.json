@@ -1,0 +1,7 @@
+{
+  "name": "PizzaTowerEscapeMusic",
+  "version_number": "2.3.0",
+  "website_url": "",
+  "description": "Plays music from Pizza Tower when the early ship leave alert appears",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

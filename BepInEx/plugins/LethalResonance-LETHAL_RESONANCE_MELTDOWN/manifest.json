@@ -1,0 +1,11 @@
+{
+    "name": "LETHAL_RESONANCE_MELTDOWN",
+    "version_number": "1.1.6",
+    "website_url": "",
+    "description": "Dive into our captivating, high stakes rendition of the Facility Meltdown alarm audio! Experience your final 2 minutes our way and enjoy the anxiety that the sound true impending doom brings. If you like our work give us a thumbs up to support us!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "BGN-PizzaTowerEscapeMusic-2.3.0",
+        "loaforc-FacilityMeltdown-2.0.2"
+    ]
+}
