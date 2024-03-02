@@ -1,0 +1,10 @@
+{
+  "name": "WalkieUse",
+  "description": "Press R to use a walkie talkie in your inventory",
+  "version_number": "2.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Rune580-LethalCompany_InputUtils-0.6.3"
+  ],
+  "website_url": "https://github.com/redassser/Walkie"
+}

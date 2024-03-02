@@ -18,7 +18,6 @@
 | DimmingFlashlights         | v1.0.1    |
 | DissonanceLagFix           | v1.0.0    |
 | E_Gypt_Moon                | v2.0.15   |
-| EchoReach                  | v0.2.3    |
 | EladsHUD                   | v1.2.1    |
 | FacilityMeltdown           | v2.4.1    |
 | FlashlightToggle           | v1.5.0    |
@@ -43,8 +42,10 @@
 | MirrorDecor                | v1.3.2    |
 | MoreCompany                | v1.8.1    |
 | NavMeshInCompany           | v1.0.1    |
+| NutcrackerFixes            | v1.2.2    |
 | OpenBodyCams               | v1.2.11   |
 | Orion                      | v2.0.1    |
+| PathfindingLagFix          | v1.2.1    |
 | PizzaTowerEscapeMusic      | v2.3.0    |
 | PsychSanctum               | v0.1.5    |
 | Runtime_Netcode_Patcher    | v0.2.5    |
