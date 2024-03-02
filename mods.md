@@ -9,7 +9,6 @@
 | BetterItemScan             | v3.0.2  |          |
 | BetterStamina              | v1.3.2  |          |
 | BetterTeleporter           | v1.2.2  |          |
-| Celestria                  | v0.4.8  |          |
 | Coroner                    | v1.6.0  |          |
 | Corporate_Restructure      | v1.0.6  |          |
 | CSync                      | v2.0.0  |          |
@@ -37,10 +36,9 @@
 | LethalRegeneration         | v1.2.0  |          |
 | LethalThings               | v0.9.4  |          |
 | LetMeLookDown              | v1.0.1  |          |
-| Maritopia                  | v0.3.8  |          |
 | Mimics                     | v2.4.1  |          |
 | MirrorDecor                | v1.3.2  |          |
-| MoreCompany                | v1.8.1  |          |
+| MoreCompany                | v1.7.6  |          |
 | NavMeshInCompany           | v1.0.1  |          |
 | NutcrackerFixes            | v1.2.2  |          |
 | OpenBodyCams               | v1.2.11 |          |
@@ -53,12 +51,10 @@
 | SCPFoundationDungeon       | v3.0.0  |          |
 | SecretLabs                 | v3.3.7  |          |
 | SevenNationLoudHorn        | v1.0.2  |          |
-| Skinwalkers                | v4.0.1  | x        |
 | Terminal_Clock             | v1.0.5  |          |
 | Terminal_History           | v1.0.4  |          |
 | TerminalApi                | v1.5.2  |          |
 | UnlimitedTZP               | v0.9.0  |          |
-| ViewExtension              | v1.1.0  | x        |
 | WalkieUse                  | v2.0.0  | x        |
 | WeatherMultipliers         | v1.1.0  |          |
 | WindowsXPTerminal          | v1.2.1  |          |
@@ -66,9 +62,7 @@
 
 ## Modifications:
 
-| Name          | Description                               |
-| ------------- | ----------------------------------------- |
-| Backrooms     | Decreased size from 30 to 25              |
-| Skinwalkers   | Fixed weird save data IO behaviors        |
-| ViewExtension | Decreased view distance from 1500 to 1000 |
-| WalkieUse     | Rewrite of the internals                  |
+| Name      | Description                  |
+| --------- | ---------------------------- |
+| Backrooms | Decreased size from 30 to 25 |
+| WalkieUse | Rewrite of the internals     |
