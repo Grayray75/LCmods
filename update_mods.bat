@@ -37,7 +37,7 @@ call:downloadModPackage "sfDesat-Orion" "2.0.1"
 call:downloadModPackage "Tolian-Celestria" "0.4.8"
 call:deleteModPackage "Tolian-EchoReach" "0.2.3"
 call:downloadModPackage "Tolian-Maritopia" "0.3.8"
-call:downloadModPackage "Tolian-PsychSanctum" "0.1.5"
+call:deleteModPackage "Tolian-PsychSanctum" "0.1.5"
 call:downloadModPackage "Zingar-Atlas_Abyss" "1.1.8"
 call:downloadModPackage "Zingar-SecretLabs" "3.3.7"
 
