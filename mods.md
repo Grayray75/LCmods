@@ -4,7 +4,7 @@
 | AdditionalSuits            | v2.0.0    |
 | Atlas_Abyss                | v1.1.8    |
 | Backrooms                  | v0.1.3    |
-| BepInEx                    | v5.4.2100 |
+| BepInEx                    | v5.4.2200 |
 | BetterEmotes               | v1.4.5    |
 | BetterItemScan             | v3.0.2    |
 | BetterStamina              | v1.3.2    |
