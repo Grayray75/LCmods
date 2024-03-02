@@ -9,7 +9,7 @@
 | BetterItemScan             | v3.0.2    |
 | BetterStamina              | v1.3.2    |
 | BetterTeleporter           | v1.2.2    |
-| Celestria                  | v0.4.7    |
+| Celestria                  | v0.4.8    |
 | Coroner                    | v1.6.0    |
 | Corporate_Restructure      | v1.0.6    |
 | CSync                      | v2.0.0    |
@@ -18,7 +18,7 @@
 | DimmingFlashlights         | v1.0.1    |
 | DissonanceLagFix           | v1.0.0    |
 | E_Gypt_Moon                | v2.0.15   |
-| EchoReach                  | v0.2.2    |
+| EchoReach                  | v0.2.3    |
 | EladsHUD                   | v1.2.1    |
 | FacilityMeltdown           | v2.4.1    |
 | FlashlightToggle           | v1.5.0    |
@@ -38,7 +38,7 @@
 | LethalRegeneration         | v1.2.0    |
 | LethalThings               | v0.9.4    |
 | LetMeLookDown              | v1.0.1    |
-| Maritopia                  | v0.3.7    |
+| Maritopia                  | v0.3.8    |
 | Mimics                     | v2.4.1    |
 | MirrorDecor                | v1.3.2    |
 | MoreCompany                | v1.8.1    |
@@ -46,7 +46,7 @@
 | OpenBodyCams               | v1.2.11   |
 | Orion                      | v2.0.1    |
 | PizzaTowerEscapeMusic      | v2.3.0    |
-| PsychSanctum               | v0.1.3    |
+| PsychSanctum               | v0.1.5    |
 | Runtime_Netcode_Patcher    | v0.2.5    |
 | Scoopys_Variety_Mod        | v1.2.0    |
 | SCPFoundationDungeon       | v3.0.0    |

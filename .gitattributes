@@ -1,2 +1,4 @@
 * text=auto
+*.bat text eol=crlf
 *.cfg text eol=crlf
+*.json text eol=crlf
