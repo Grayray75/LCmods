@@ -1,4 +1,12 @@
+:: LCMods update script
+
+echo Resetting and deleting old files...
 git reset --hard
+cd ".\BepInEx"
+git clean -fdx
+cd ".."
+
+echo Fetching mod updates...
 git fetch
 git pull
 
@@ -30,7 +38,8 @@ EXIT /B 0
 :DOWNLOAD
 @echo off
 echo Deleting old stuff...
-del /s /q ".\Dissonance_Diagnostics\" >NUL  2>NUL
+del /s /q ".\Dissonance_Diagnostics\*" >NUL  2>NUL
+rmdir /s /q ".\Dissonance_Diagnostics" >NUL  2>NUL
 call:deleteModPackage "Tolian-Celestria" "0.4.8"
 call:deleteModPackage "Tolian-EchoReach" "0.2.3"
 call:deleteModPackage "Tolian-Maritopia" "0.3.8"
