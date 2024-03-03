@@ -1,4 +1,10 @@
+echo Resetting and deleting old files...
 git reset --hard
+cd ".\BepInEx"
+git clean -fdx
+cd ".."
+
+echo Fetching mod updates...
 git fetch
 git pull
 
@@ -29,19 +35,22 @@ EXIT /B 0
 
 :DOWNLOAD
 @echo off
+
 echo Deleting old stuff...
-del /s /q ".\Dissonance_Diagnostics\" >NUL  2>NUL
+del /s /q ".\Dissonance_Diagnostics\*" >NUL  2>NUL
+rmdir /s /q ".\Dissonance_Diagnostics" >NUL  2>NUL
 call:deleteModPackage "Tolian-Celestria" "0.4.8"
 call:deleteModPackage "Tolian-EchoReach" "0.2.3"
 call:deleteModPackage "Tolian-Maritopia" "0.3.8"
 call:deleteModPackage "Tolian-PsychSanctum" "0.1.5"
+call:deleteModPackage "Zingar-Atlas_Abyss" "1.1.8"
 
 echo Downloading additional moons...
 mkdir ".\_download"
 
+::call:downloadModPackage "AudioKnight-StarlancerMoons" "1.0.1"
 call:downloadModPackage "KayNetsua-E_Gypt_Moon" "2.0.15"
 call:downloadModPackage "sfDesat-Orion" "2.0.1"
-call:downloadModPackage "Zingar-Atlas_Abyss" "1.1.8"
 call:downloadModPackage "Zingar-SecretLabs" "3.3.7"
 
 echo Download complete
