@@ -42,14 +42,15 @@
 | OpenBodyCams               | v1.3.0  |          |
 | Orion                      | v2.0.1  |          |
 | PathfindingLagFix          | v1.2.1  |          |
-| Peepers                    | v0.9.6  |          |
 | PizzaTowerEscapeMusic      | v2.3.0  |          |
+| PoolRooms                  | v0.1.18 |          |
 | Runtime_Netcode_Patcher    | v0.2.5  |          |
 | Scoopys_Variety_Mod        | v1.2.0  |          |
 | SCPFoundationDungeon       | v3.0.0  |          |
 | SecretLabs                 | v3.3.7  |          |
 | SevenNationLoudHorn        | v1.0.2  |          |
 | StarlancerAIFix            | v3.2.0  |          |
+| StarlancerMoons            | v1.1.0  |          |
 | StarlancerMusic            | v1.1.0  |          |
 | Terminal_Clock             | v1.0.5  |          |
 | Terminal_History           | v1.0.4  |          |

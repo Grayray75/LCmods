@@ -1,9 +1,0 @@
-{
-    "name": "Peepers",
-    "version_number": "0.9.6",
-    "website_url": "https://github.com/x753/Lethal-Company-Peepers",
-    "description": "Adds a new non-lethal monster to the game with unique mechanics and interactions.",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}

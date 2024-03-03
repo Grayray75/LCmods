@@ -1,0 +1,12 @@
+{
+    "name": "StarlancerMoons",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/AudioKnight/Starlancer",
+    "description": "(LLL) 3 new moons: 1 free, 1 intermediate and 1 late-game. Part of my Starlancer series!",
+    "dependencies": [
+	"IAmBatby-LethalLevelLoader-1.1.6"
+	, "BepInEx-BepInExPack-5.4.2100"
+	, "AudioKnight-StarlancerAIFix-3.2.0"
+	, "Hardy-LCMaxSoundsFix-1.1.0"
+    ]
+}

@@ -1,3 +1,5 @@
+:: LCMods update script
+
 echo Resetting and deleting old files...
 git reset --hard
 cd ".\BepInEx"
@@ -46,10 +48,11 @@ call:deleteModPackage "Tolian-PsychSanctum" "0.1.5"
 call:deleteModPackage "Zingar-Atlas_Abyss" "1.1.8"
 
 echo Downloading additional moons...
-mkdir ".\_download"
+mkdir ".\_download" >NUL  2>NUL
 
-::call:downloadModPackage "AudioKnight-StarlancerMoons" "1.0.1"
+call:downloadModPackage "AudioKnight-StarlancerMoons" "1.1.0"
 call:downloadModPackage "KayNetsua-E_Gypt_Moon" "2.0.15"
+call:downloadModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
 call:downloadModPackage "sfDesat-Orion" "2.0.1"
 call:downloadModPackage "Zingar-SecretLabs" "3.3.7"
 
