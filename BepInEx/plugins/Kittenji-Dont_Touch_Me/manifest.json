@@ -1,9 +1,0 @@
-{
-    "name": "Dont_Touch_Me",
-    "version_number": "1.2.1",
-    "website_url": "https://github.com/ChrisFeline",
-    "description": "Adds a new entity to the game, from Lobotomy Corporation. Can you and your friends survive the temptation?",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}

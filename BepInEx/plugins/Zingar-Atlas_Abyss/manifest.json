@@ -1,0 +1,11 @@
+{
+    "name": "Atlas_Abyss",
+    "version_number": "1.1.8",
+    "website_url": "",
+    "description": "[1.1 Release] A new moon of dark secrets, jagged terrain and carved stone. Below the surface, the Masked Men have broken free. The abyss below extends *redacted* metres and none have survived the fall.  ",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.11.1",
+		"IAmBatby-LethalLevelLoader-1.1.4"
+    ]
+}

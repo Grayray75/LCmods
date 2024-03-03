@@ -16,8 +16,6 @@ BepInEx/plugins/**/CHANGELOG.md
 BepInEx/plugins/**/LICENSE
 BepInEx/plugins/**/icon.png
 BepInEx/plugins/**/*.lethalbundle
-BepInEx/plugins/skidz-PoolRooms/PoolRooms/poolrooms
-BepInEx/plugins/Major_And_Skiz-MoreInteriors/moreinterior_dungen
-BepInEx/LogOutput.log
 mods.yml
+BepInEx/LogOutput.log
 *.mcskin
