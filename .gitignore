@@ -1,0 +1,24 @@
+# Game
+Lethal Company_Data/
+MonoBleedingEdge/
+Lethal Company.exe
+nvngx_dlss.dll
+NVUnityPlugin.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+
+# Mods
+_download/
+_state/
+BepInEx/cache/
+BepInEx/plugins/**/README.md
+BepInEx/plugins/**/CHANGELOG.md
+BepInEx/plugins/**/LICENSE
+BepInEx/plugins/**/icon.png
+BepInEx/LogOutput.log
+mods.yml
+
+# Dev Mods
+BepInEx/config/LethalCompanyMinimap.cfg
+BepInEx/plugins/Alejo47-InfiniteMoney/*
+BepInEx/plugins/Tyzeron-Minimap/*
