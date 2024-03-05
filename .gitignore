@@ -21,6 +21,7 @@ mods.yml
 # Specific mod files
 BepInEx/plugins/MMHOOK/
 BepInEx/plugins/Piggy-LC_Office/lcoffice
+BepInEx/plugins/Major_And_Skiz-MoreInteriors/MoreInteriorsDunGen.dll
 BepInEx/plugins/Major_And_Skiz-MoreInteriors/moreinterior_dungen
 
 # Dev mods
