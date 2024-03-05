@@ -7,7 +7,7 @@ NVUnityPlugin.dll
 UnityCrashHandler64.exe
 UnityPlayer.dll
 
-# Mods
+# General mod files
 _download/
 _state/
 BepInEx/cache/
@@ -18,7 +18,11 @@ BepInEx/plugins/**/icon.png
 BepInEx/LogOutput.log
 mods.yml
 
-# Dev Mods
+# Specific mod files
+BepInEx/plugins/MMHOOK/
+BepInEx/plugins/Piggy-LC_Office/lcoffice
+
+# Dev mods
 BepInEx/config/LethalCompanyMinimap.cfg
 BepInEx/plugins/Alejo47-InfiniteMoney/*
 BepInEx/plugins/Tyzeron-Minimap/*

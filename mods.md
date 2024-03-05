@@ -1,20 +1,27 @@
 # Mods
 
-| Name                     | Version | Modified |
-| ------------------------ | ------- | -------- |
-| BepInEx                  | v5.4.21 |          |
-| BetterEmotes             | v1.4.5  |          |
-| GeneralImprovements      | v1.1.11 |          |
-| LateCompany              | v1.0.11 |          |
-| LCMaxSoundsFix           | v1.1.0  |          |
-| LethalCompany_InputUtils | v0.6.3  |          |
-| Mimics                   | v2.4.1  |          |
-| MoreCompany              | v1.7.6  |          |
-| OpenBodyCams             | v1.3.0  |          |
-| Runtime_Netcode_Patcher  | v0.2.5  |          |
-| YippeeMod                | v1.2.4  |          |
+| Name                     | Version    | Modified |
+| ------------------------ | ---------- | -------- |
+| BepInEx                  | v5.4.21    |          |
+| BetterEmotes             | v1.4.5     |          |
+| GeneralImprovements      | v1.1.11    |          |
+| HookGenPatcher           | v0.0.5     |          |
+| LateCompany              | v1.0.11    |          |
+| LC_Office                | v1.0.25    | x        |
+| LCMaxSoundsFix           | v1.1.0     |          |
+| LethalCompany_InputUtils | v0.6.3     |          |
+| LethalLevelLoader        | v1.1.6     |          |
+| LethalLib                | v0.14.2    |          |
+| LethalNetworkAPI         | v2.1.6     |          |
+| Mimics                   | v2.4.1     |          |
+| MoreCompany              | v1.7.6     |          |
+| OdinSerializer           | v2022.11.9 |          |
+| OpenBodyCams             | v1.3.0     |          |
+| Runtime_Netcode_Patcher  | v0.2.5     |          |
+| YippeeMod                | v1.2.4     |          |
 
 ## Modifications:
 
-| Name | Description |
-| ---- | ----------- |
+| Name      | Description                                                           |
+| --------- | --------------------------------------------------------------------- |
+| LC_Office | Fixed an error in the elevator camera, which was spamming the console |
