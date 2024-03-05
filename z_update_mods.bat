@@ -42,6 +42,7 @@ echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
 call:downloadModPackage "Piggy-LC_Office" "1.0.25"
+call:downloadModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
 git reset --hard
 
 echo Download complete

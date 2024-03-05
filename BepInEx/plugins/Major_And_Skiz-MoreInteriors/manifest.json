@@ -1,0 +1,12 @@
+{
+    "name": "MoreInteriors",
+    "version_number": "2.5.0",
+    "website_url": "",
+    "description": "Adds some more interior tilesets for your crew to scavenge in. Currently the Bunker tileset is out and More interiors to come. Have Fun.",
+    "dependencies": [
+    "Evaisa-LethalLib-0.14.2",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "BepInEx-BepInExPack-5.4.2100",
+    "IAmBatby-LethalLevelLoader-1.1.6"
+    ]
+}

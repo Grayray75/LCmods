@@ -5,6 +5,7 @@
 | BepInEx                  | v5.4.21    |          |
 | BetterEmotes             | v1.4.5     |          |
 | GeneralImprovements      | v1.1.11    |          |
+| HideChat                 | v1.0.0     |          |
 | HookGenPatcher           | v0.0.5     |          |
 | LateCompany              | v1.0.11    |          |
 | LC_Office                | v1.0.25    | x        |
@@ -15,6 +16,7 @@
 | LethalNetworkAPI         | v2.1.6     |          |
 | Mimics                   | v2.4.1     |          |
 | MoreCompany              | v1.7.6     |          |
+| MoreInteriors            | v2.5.0     |          |
 | OdinSerializer           | v2022.11.9 |          |
 | OpenBodyCams             | v1.3.0     |          |
 | Runtime_Netcode_Patcher  | v0.2.5     |          |

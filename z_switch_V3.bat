@@ -16,6 +16,8 @@ git checkout V3
 git pull
 git reset --hard
 
+.\z_update_mods.bat
+
 @echo off
 pause
 @echo on
