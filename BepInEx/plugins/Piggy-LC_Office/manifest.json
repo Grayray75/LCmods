@@ -1,8 +1,8 @@
 ﻿{
 	"name": "LC_Office",
-	"version_number": "1.0.25",
+	"version_number": "1.1.23",
 	"website_url": "",
-	"description": "Adds new office-themed interior, and new enemy!",
+	"description": "Adds new office-themed interior, and new enemies!",
 	"dependencies": [
 	"Evaisa-LethalLib-0.14.2",
 	"xilophor-LethalNetworkAPI-2.1.6",

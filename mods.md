@@ -6,16 +6,17 @@
 | AdditionalSuits            | v2.0.0     |          |
 | BepInEx                    | v5.4.21    |          |
 | BetterEmotes               | v1.4.5     |          |
-| GeneralImprovements        | v1.1.11    |          |
+| GeneralImprovements        | v1.1.12    |          |
 | HideChat                   | v1.0.0     |          |
 | HookGenPatcher             | v0.0.5     |          |
-| LateCompany                | v1.0.11    |          |
-| LC_Office                  | v1.0.25    | x        |
+| LateCompany                | v1.0.13    |          |
+| LC_Office                  | v1.1.23    | x        |
 | LCMaxSoundsFix             | v1.1.0     |          |
-| LethalCompany_InputUtils   | v0.6.3     |          |
+| LethalCompany_InputUtils   | v0.7.3     |          |
 | LethalLevelLoader          | v1.1.6     |          |
-| LethalLib                  | v0.14.2    |          |
+| LethalLib                  | v0.15.0    |          |
 | LethalNetworkAPI           | v2.1.6     |          |
+| LethalThings               | v0.10.2    |          |
 | Mimics                     | v2.4.1     |          |
 | MoreCompany                | v1.7.6     |          |
 | MoreInteriors              | v2.5.0     |          |

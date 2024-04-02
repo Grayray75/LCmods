@@ -41,7 +41,8 @@ EXIT /B 0
 echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
-call:downloadModPackage "Piggy-LC_Office" "1.0.25"
+call:downloadModPackage "Evaisa-LethalThings" "0.10.2"
+call:downloadModPackage "Piggy-LC_Office" "1.1.23"
 call:downloadModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
 git reset --hard
 
