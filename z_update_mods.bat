@@ -24,7 +24,7 @@ GOTO:DOWNLOAD
         SET packageName=%~1
         SET packageVersion=%~2
 
-        ECHO Downloading %packageName% v%packageVersion% ...
+        ECHO Downloading %packageName% v%packageVersion%
         del /s /q ".\BepInEx\plugins\%packageName%\*" >NUL  2>NUL
         curl.exe --url "https://gcdn.thunderstore.io/live/repository/packages/%packageName%-%packageVersion%.zip" --output ".\_download\%packageName%-%packageVersion%.zip" -C -
         tar -xf ".\_download\%packageName%-%packageVersion%.zip" -C ".\BepInEx\plugins\%packageName%"
@@ -36,7 +36,7 @@ EXIT /B 0
         SET packageName=%~1
         SET packageVersion=%~2
 
-        ECHO Deleting %packageName% v%packageVersion% ...
+        ECHO Deleting %packageName% v%packageVersion%
         del /s /q ".\BepInEx\plugins\%packageName%\*" >NUL  2>NUL
         del /s /q ".\_download\%packageName%-%packageVersion%.zip" >NUL  2>NUL
     ENDLOCAL
@@ -45,6 +45,7 @@ EXIT /B 0
 :DOWNLOAD
 @echo off
 
+echo:
 echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
@@ -58,5 +59,6 @@ call:downloadModPackage "Piggy-LC_Office" "1.1.29"
 git reset --hard
 
 echo Download complete
+echo:
 pause
 @echo on
