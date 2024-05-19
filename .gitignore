@@ -21,6 +21,7 @@ mods.yml
 # Specific mod files
 BepInEx/plugins/MMHOOK/
 BepInEx/plugins/Piggy-LC_Office/lcoffice
+BepInEx/plugins/Evaisa-LethalThings/LethalThings
 
 # Dev mods
 BepInEx/config/LethalCompanyMinimap.cfg
