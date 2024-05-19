@@ -1,6 +1,6 @@
 {
     "name": "LCMaxSoundsFix",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/Hardeh/LCMaxSoundFix",
     "description": "Simple mod that increase max number of simultaneous playing sounds, hopefully fixing missing footsteps and other missing sound problems.",
     "dependencies": [

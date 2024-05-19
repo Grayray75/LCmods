@@ -10,6 +10,13 @@ echo Fetching mod updates...
 git fetch
 git pull
 
+echo Removing old git data...
+:: https://stackoverflow.com/a/46004595
+git fetch --depth 1
+git branch -d main
+git stash drop
+git gc
+
 GOTO:DOWNLOAD
 
 :downloadModPackage
@@ -41,9 +48,13 @@ EXIT /B 0
 echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
-call:downloadModPackage "Evaisa-LethalThings" "0.10.2"
-call:downloadModPackage "Piggy-LC_Office" "1.1.23"
-call:downloadModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
+call:deleteModPackage "Evaisa-LethalThings" "0.10.2"
+call:deleteModPackage "Piggy-LC_Office" "1.1.23"
+call:deleteModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
+
+call:downloadModPackage "Evaisa-LethalThings" "0.10.4"
+call:downloadModPackage "Piggy-LC_Office" "1.1.29"
+
 git reset --hard
 
 echo Download complete

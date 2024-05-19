@@ -1,11 +1,11 @@
 ﻿{
 	"name": "LC_Office",
-	"version_number": "1.1.23",
-	"website_url": "",
+	"version_number": "1.1.29",
+	"website_url": "https://github.com/Piggy3590/LC_Office",
 	"description": "Adds new office-themed interior, and new enemies!",
 	"dependencies": [
-	"Evaisa-LethalLib-0.14.2",
+	"Evaisa-LethalLib-0.15.1",
 	"xilophor-LethalNetworkAPI-2.1.6",
-	"IAmBatby-LethalLevelLoader-1.1.6"
+	"IAmBatby-LethalLevelLoader-1.2.0"
 	]
 }

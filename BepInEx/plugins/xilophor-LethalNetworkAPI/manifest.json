@@ -2,7 +2,7 @@
   "namespace": "xilophor",
   "name": "LethalNetworkAPI",
   "description": "A library/API to allow developers to easily add networking to their mods.",
-  "version_number": "2.1.6",
+  "version_number": "2.1.7",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Lordfirespeed-OdinSerializer-2022.11.9"
