@@ -19,12 +19,10 @@ BepInEx/plugins/**/icon.png
 BepInEx/LogOutput.log
 mods.yml
 
-# Specific mod files
-BepInEx/plugins/MMHOOK/
-BepInEx/plugins/Piggy-LC_Office/lcoffice
-BepInEx/plugins/Evaisa-LethalThings/LethalThings
-
 # Dev mods
 BepInEx/config/LethalCompanyMinimap.cfg
 BepInEx/plugins/Alejo47-InfiniteMoney/
 BepInEx/plugins/Tyzeron-Minimap/
+
+# Specific mod files
+BepInEx/plugins/mrgrm7-LethalCasino/lethalcasinoassets

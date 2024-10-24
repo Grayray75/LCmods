@@ -50,7 +50,7 @@ echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
 ::call:deleteModPackage "Evaisa-LethalThings" "0.10.2"
-::call:downloadModPackage "Evaisa-LethalThings" "0.10.4"
+call:downloadModPackage "mrgrm7-LethalCasino" "1.1.2"
 
 git reset --hard
 

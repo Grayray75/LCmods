@@ -2,8 +2,12 @@
 
 | Name                     | Version    |
 | ------------------------ | ---------- |
+| AccurateStaminaDisplay   | v2.2.0     |
+| Atomics Cosmetics        | v1.2.1     |
 | BepInExPack              | v5.4.2100  |
 | BetterEmotes             | v1.5.4     |
+| Chameleon                | v1.1.3     |
+| ColouredWeather          | v1.0.1     |
 | Coroner                  | v2.2.0     |
 | CoronerMimics            | v1.0.1     |
 | CullFactory              | v1.4.3     |
@@ -12,6 +16,7 @@
 | GeneralImprovements      | v1.4.4     |
 | LateCompany              | v1.0.18    |
 | LCMaxSoundsFix           | v1.2.0     |
+| LethalCasino             | v1.1.2     |
 | LethalCompany_InputUtils | v0.7.7     |
 | Mimics                   | v2.6.4     |
 | More_Suits               | v1.4.4     |
