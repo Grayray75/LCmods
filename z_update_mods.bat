@@ -49,14 +49,8 @@ echo:
 echo Downloading additional moons...
 mkdir ".\_download" >NUL  2>NUL
 
-call:deleteModPackage "Evaisa-LethalThings" "0.10.2"
-call:deleteModPackage "Piggy-LC_Office" "1.1.23"
-call:deleteModPackage "Major_And_Skiz-MoreInteriors" "2.5.0"
-call:deleteModPackage "Evaisa-LethalThings" "0.10.4"
-call:deleteModPackage "Piggy-LC_Office" "1.1.29"
-
+::call:deleteModPackage "Evaisa-LethalThings" "0.10.2"
 ::call:downloadModPackage "Evaisa-LethalThings" "0.10.4"
-::call:downloadModPackage "Piggy-LC_Office" "1.1.29"
 
 git reset --hard
 
