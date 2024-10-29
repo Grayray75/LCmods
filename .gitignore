@@ -15,6 +15,7 @@ BepInEx/plugins/**/README.md
 BepInEx/plugins/**/CHANGELOG.md
 BepInEx/plugins/**/LICENSE
 BepInEx/plugins/**/LICENSE.txt
+BepInEx/plugins/**/LICENSE.md
 BepInEx/plugins/**/icon.png
 BepInEx/LogOutput.log
 mods.yml
@@ -26,3 +27,11 @@ BepInEx/plugins/Tyzeron-Minimap/
 
 # Specific mod files
 BepInEx/plugins/mrgrm7-LethalCasino/lethalcasinoassets
+BepInEx/plugins/Napougi-ScarletDevilMoon/sdm2.lethalbundle
+BepInEx/plugins/Napougi-ScarletDevilMoon/sdm2 scene.lethalbundle
+BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customdungeon
+BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customenemies
+BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customitems
+BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/custommoon
+BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/lllscene.lethalbundle
+/BepInEx/plugins/MMHOOK

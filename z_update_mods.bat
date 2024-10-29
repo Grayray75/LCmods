@@ -51,6 +51,8 @@ mkdir ".\_download" >NUL  2>NUL
 
 ::call:deleteModPackage "Evaisa-LethalThings" "0.10.2"
 call:downloadModPackage "mrgrm7-LethalCasino" "1.1.2"
+call:downloadModPackage "Napougi-ScarletDevilMoon" "1.0.1"
+call:downloadModPackage "Skeleton_Studios-Welcome_To_Ooblterra" "1.2.0"
 
 git reset --hard
 
