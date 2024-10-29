@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches": "HoarderBug:Chitter*",
+            "sounds": [
+                {
+                    "sound": "yippee.ogg"
+                }
+            ]
+        }
+    ]
+}
