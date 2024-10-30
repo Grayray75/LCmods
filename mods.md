@@ -12,8 +12,6 @@
 | Chameleon                   | v1.1.3     |
 | ColouredWeather             | v1.0.1     |
 | CompanyCruiserFix           | v1.0.5     |
-| Coroner                     | v2.2.0     |
-| CoronerMimics               | v1.0.1     |
 | CruiserImproved             | v1.4.1     |
 | CullFactory                 | v1.4.3     |
 | DungeonGenerationPlus       | v1.1.2     |
@@ -33,14 +31,13 @@
 | LobbyControl                | v2.4.4     |
 | Mimics                      | v2.6.4     |
 | More_Suits                  | v1.4.4     |
-| MoreCompany                 | v1.10.2    |
+| MoreCompany                 | v1.11.0    |
 | NeedyCats                   | v1.2.2     |
 | OdinSerializer              | v2022.11.9 |
-| OpenBodyCams                | v2.4.5     |
+| OpenBodyCams                | v2.6.0     |
 | PathfindingLagFix           | v1.4.0     |
 | Runtime_Netcode_Patcher     | v0.2.5     |
 | ScarletDevilMansion         | v1.3.27    |
-| StaticNetcodeLib            | v1.1.1     |
 | TooManySuits                | v2.0.1     |
 | Welcome_To_Ooblterra        | v1.2.0     |
 | YippeeMod                   | v1.2.4     |

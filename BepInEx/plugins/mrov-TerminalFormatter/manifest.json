@@ -1,0 +1,12 @@
+{
+  "namespace": "mrov",
+  "name": "TerminalFormatter",
+  "description": "Rework of terminal's pages.",
+  "version_number": "0.2.23",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "mrov-MrovLib-0.2.1"
+  ],
+  "website_url": "https://github.com/AndreyMrovol/LethalTerminalFormatter",
+  "FullName": "mrov-TerminalFormatter"
+}
