@@ -26,12 +26,11 @@ BepInEx/plugins/Alejo47-InfiniteMoney/
 BepInEx/plugins/Tyzeron-Minimap/
 
 # Specific mod files
+BepInEx/plugins/MMHOOK/
 BepInEx/plugins/mrgrm7-LethalCasino/lethalcasinoassets
-BepInEx/plugins/Napougi-ScarletDevilMoon/sdm2.lethalbundle
-BepInEx/plugins/Napougi-ScarletDevilMoon/sdm2 scene.lethalbundle
-BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customdungeon
-BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customenemies
-BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/customitems
-BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/custommoon
-BepInEx/plugins/Skeleton_Studios-Welcome_To_Ooblterra/lllscene.lethalbundle
-/BepInEx/plugins/MMHOOK
+BepInEx/plugins/RealeStudios-CastleGrounds/castlegrounds.lethalbundle
+BepInEx/plugins/RealeStudios-CastleGrounds/castlegroundsscene.lethalbundle
+BepInEx/plugins/sfDesat-Aquatis/aquatisplanetscene.lethalbundle
+BepInEx/plugins/sfDesat-Aquatis/aquatisplanet.lethalbundle
+BepInEx/plugins/Zingar-SecretLabs/secret labs scene.lethalbundle
+BepInEx/plugins/Zingar-SecretLabs/secret labs.lethalbundle

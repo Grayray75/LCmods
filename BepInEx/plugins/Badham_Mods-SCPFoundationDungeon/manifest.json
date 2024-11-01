@@ -1,0 +1,9 @@
+{
+    "name": "SCPFoundationDungeon",
+    "version_number": "4.3.4",
+    "description": "Adds the SCP foundation as a potential dungeon to explore.",
+    "website_url": "https://github.com/Badhamknibbs/Lethal-Company-SCPCBDunGen",
+    "dependencies": [
+		"IAmBatby-LethalLevelLoader-1.3.10"
+    ]
+}
