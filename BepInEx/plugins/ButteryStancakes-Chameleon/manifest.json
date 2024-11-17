@@ -1,6 +1,6 @@
 {
     "name": "Chameleon",
-    "version_number": "1.1.3",
+    "version_number": "1.2.2",
 	"website_url": "https://github.com/ButteryStancakes/Chameleon",
     "description": "Aesthetic changes to make moon environments feel more cohesive.",
     "dependencies": [
