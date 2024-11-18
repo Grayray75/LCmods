@@ -1,0 +1,10 @@
+{
+  "name": "MelanieMelicious_Utility_Furniture_Pack",
+  "version_number": "0.2.2",
+  "website_url": "",
+  "description": "Wow, I made it a new mod for this title. Adds furniture items, many with intended functions such as storage or usable doors. You can find me in the Lethal Company Modding Discord.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+	"Evaisa-LethalLib-0.14.2"
+  ]
+}
