@@ -1,0 +1,9 @@
+{
+    "name": "LethalApertureMoon",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Funny moon portal haha",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.1.6"
+    ]
+}

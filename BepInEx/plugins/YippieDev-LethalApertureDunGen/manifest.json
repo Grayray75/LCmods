@@ -1,0 +1,9 @@
+{
+    "name": "LethalApertureDunGen",
+    "version_number": "1.1.2",
+    "website_url": "https://cobertos.com",
+    "description": "Funny dungen portal haha",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.1.6"
+    ]
+}

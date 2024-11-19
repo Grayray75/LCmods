@@ -1,0 +1,9 @@
+{
+    "name": "Weather_Gains",
+    "description": "Flexible mod which allows you to multiply the value and quantity of scrap based on the weather.",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/RobuxTRex/Weather-Gains-LC",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "NavMeshInCompany",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/ChrisFeline",
+  "description": "Enables the use of AI pathfinding and navigation in the Company Building allowing other mods to spawn Enemies.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
