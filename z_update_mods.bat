@@ -14,8 +14,8 @@ echo Removing old git data...
 :: https://stackoverflow.com/a/46004595
 git fetch --depth 1
 git branch -d main
+git branch -d V3
 git stash drop
-git gc
 
 GOTO:DOWNLOAD
 
