@@ -1,6 +1,6 @@
 {
   "name": "Herobrine",
-  "version_number": "1.3.5",
+  "version_number": "1.3.6",
   "website_url": "https://github.com/ChrisFeline",
   "description": "Adds Herobrine from Minecraft as an entity that will haunt you.",
   "dependencies": [

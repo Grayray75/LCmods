@@ -51,9 +51,10 @@ mkdir ".\_download" >NUL  2>NUL
 
 call:deleteModPackage "Skeleton_Studios-Welcome_To_Ooblterra" "1.2.0"
 call:deleteModPackage "RealeStudios-CastleGrounds" "5.2.0"
+call:deleteModPackage "RealeStudios-CastleGrounds" "5.2.2"
 
 call:downloadModPackage "mrgrm7-LethalCasino" "1.1.2"
-call:downloadModPackage "RealeStudios-CastleGrounds" "5.2.2"
+call:downloadModPackage "RealeStudios-CastleGrounds" "5.4.1"
 call:downloadModPackage "sfDesat-Aquatis" "2.2.3"
 call:downloadModPackage "Zingar-SecretLabs" "3.4.1"
 

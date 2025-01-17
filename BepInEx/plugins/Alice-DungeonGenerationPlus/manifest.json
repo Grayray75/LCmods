@@ -1,6 +1,6 @@
 {
     "name": "DungeonGenerationPlus",
-    "version_number": "1.2.0",
+    "version_number": "1.3.3",
     "website_url": "https://git.touhou.dev/Raphtalia/DungeonGenerationPlus_LethalCompany_Mod",
     "description": "API to expand the compatibilities of Lethal Company's dungeon generation",
     "dependencies": [
