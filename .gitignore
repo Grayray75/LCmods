@@ -1,0 +1,26 @@
+# Game
+Lethal Company_Data/
+MonoBleedingEdge/
+Lethal Company.exe
+nvngx_dlss.dll
+NVUnityPlugin.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+
+# General mod files
+_download/
+_state/
+BepInEx/cache/
+BepInEx/plugins/**/README.md
+BepInEx/plugins/**/CHANGELOG.md
+BepInEx/plugins/**/LICENSE
+BepInEx/plugins/**/LICENSE.txt
+BepInEx/plugins/**/LICENSE.md
+BepInEx/plugins/**/icon.png
+BepInEx/LogOutput.log
+
+# Dev mods
+
+# Specific mod files
+BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/ru_RU.json
+BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/zh_CN.json
