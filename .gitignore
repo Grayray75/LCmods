@@ -19,8 +19,7 @@ BepInEx/plugins/**/LICENSE.md
 BepInEx/plugins/**/icon.png
 BepInEx/LogOutput.log
 
-# Dev mods
-
 # Specific mod files
+/BepInEx/plugins/MMHOOK
 BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/ru_RU.json
 BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/zh_CN.json

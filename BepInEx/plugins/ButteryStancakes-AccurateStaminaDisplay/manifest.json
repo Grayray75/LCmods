@@ -1,0 +1,9 @@
+{
+    "name": "AccurateStaminaDisplay",
+    "version_number": "2.2.1",
+    "website_url": "https://github.com/ButteryStancakes/AccurateStaminaDisplay",
+    "description": "Fixes the stamina meter display on the HUD, so it more accurately represents your current stamina percentage.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
