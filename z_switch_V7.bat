@@ -12,11 +12,11 @@ rmdir /s /q ".\BepInEx"
 git fetch --all
 git reset --hard
 
-git checkout V5
+git checkout V7
 git pull
 git reset --hard
 
-.\z_update_mods.bat
+CALL .\z_update_mods.bat
 
 @echo off
 pause
