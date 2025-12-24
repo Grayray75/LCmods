@@ -1,0 +1,9 @@
+{
+    "name": "BensCosmetics",
+    "version_number": "1.2.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/PlainBen/BensCosmetics/",
+    "description": "A few cosmetics for my friends - but you're welcome to use them too :)",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.6"
+    ]
+}
