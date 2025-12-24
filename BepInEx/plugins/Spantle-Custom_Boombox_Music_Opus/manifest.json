@@ -1,0 +1,9 @@
+{
+    "name": "Custom_Boombox_Music_Opus",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/Spantle/LC-Boombox-Opus",
+    "description": "Allows you to use your own music in the boombox. This fork adds Opus file/codec support. Does not require any \"Fixer\" mods. Will conflict with other Boombox mods.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

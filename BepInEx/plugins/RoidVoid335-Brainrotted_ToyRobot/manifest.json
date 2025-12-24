@@ -1,0 +1,11 @@
+{
+    "name": "Brainrotted_ToyRobot",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Changes ToyRobot noises to Italian Brainrot audios (What have I done???) .",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-2.3.1",
+		"no00ob-LCSoundTool-1.5.0"
+    ]
+}

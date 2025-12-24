@@ -1,0 +1,36 @@
+{
+    "replacements": [
+        {
+            "matches": "BerserkAudio:TurretBerserkMode",
+            "sounds": [
+                {
+                    "sound": "TurretBerserkMode.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "Gunfire:TurretFire",
+            "sounds": [
+                {
+                    "sound": "TurretFire.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "GunfireFar:TurretFireDistance",
+            "sounds": [
+                {
+                    "sound": "TurretFireDistance.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "Gunfire:TurretSeePlayer",
+            "sounds": [
+                {
+                    "sound": "TurretSeePlayer.ogg"
+                }
+            ]
+        }
+    ]
+}
