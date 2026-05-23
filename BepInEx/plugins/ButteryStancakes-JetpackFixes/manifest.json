@@ -1,9 +1,9 @@
 {
     "name": "JetpackFixes",
-    "version_number": "1.5.4",
+    "version_number": "1.6.2",
 	"website_url": "https://github.com/ButteryStancakes/JetpackFixes",
-    "description": "Fixes multiple bugs with the jetpack, most notably the random explosions, battery drain, and tulip snakes dropping you out of the sky. (See the description for full details!)",
+    "description": "Fixes multiple bugs with the jetpack, most notably the random explosions and tulip snakes dropping you out of the sky. (See the description for full details!)",
     "dependencies": [
-		"BepInEx-BepInExPack-5.4.2100"
+		"BepInEx-BepInExPack-5.4.2305"
 	]
 }

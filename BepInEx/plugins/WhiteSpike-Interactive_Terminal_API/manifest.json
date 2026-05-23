@@ -1,6 +1,6 @@
 {
   "name": "Interactive_Terminal_API",
-  "version_number": "1.2.0",
+  "version_number": "1.3.3",
   "website_url": "https://github.com/WhiteSpike/InteractiveTerminalAPI",
   "description": "API focused on making interactable UI in the terminal",
   "dependencies": [
