@@ -1,6 +1,6 @@
 {
     "name": "EnemySoundFixes",
-    "version_number": "1.9.10",
+    "version_number": "1.9.13",
 	"website_url": "https://github.com/ButteryStancakes/EnemySoundFixes",
     "description": "Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't.",
     "dependencies": [
